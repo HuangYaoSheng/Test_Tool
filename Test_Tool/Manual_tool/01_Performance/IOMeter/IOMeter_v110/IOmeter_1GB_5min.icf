@@ -1,0 +1,316 @@
+Version 2006.07.27 
+'TEST SETUP ====================================================================
+'Test Description
+	
+'Run Time
+'	hours      minutes    seconds
+	0          5          0
+'Ramp Up Time (s)
+	0
+'Default Disk Workers to Spawn
+	NUMBER_OF_CPUS
+'Default Network Workers to Spawn
+	0
+'Record Results
+	ALL
+'Worker Cycling
+'	start      step       step type
+	1          1          LINEAR
+'Disk Cycling
+'	start      step       step type
+	1          1          LINEAR
+'Queue Depth Cycling
+'	start      end        step       step type
+	1          32         2          EXPONENTIAL
+'Test Type
+	NORMAL
+'END test setup
+'RESULTS DISPLAY ===============================================================
+'Record Last Update Results,Update Frequency,Update Type
+	ENABLED,1,LAST_UPDATE
+'Bar chart 1 statistic
+	Total I/Os per Second
+'Bar chart 2 statistic
+	Total MBs per Second
+'Bar chart 3 statistic
+	Average I/O Response Time (ms)
+'Bar chart 4 statistic
+	Maximum I/O Response Time (ms)
+'Bar chart 5 statistic
+	% CPU Utilization (total)
+'Bar chart 6 statistic
+	Total Error Count
+'END results display
+'ACCESS SPECIFICATIONS =========================================================
+'Access specification name,default assignment
+	512B; Sequential Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	512,100,100,0,0,1,0,0
+'Access specification name,default assignment
+	512B; Sequential Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	512,100,0,0,0,1,0,0
+'Access specification name,default assignment
+	512B; Random Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	512,100,100,100,0,1,0,0
+'Access specification name,default assignment
+	512B; Random Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	512,100,0,100,0,1,0,0
+'Access specification name,default assignment
+	4K; Sequential Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	4096,100,100,0,0,1,0,0
+'Access specification name,default assignment
+	4K; Sequential Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	4096,100,0,0,0,1,0,0
+'Access specification name,default assignment
+	4K; Random Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	4096,100,100,100,0,1,0,0
+'Access specification name,default assignment
+	4K; Random Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	4096,100,0,100,0,1,0,0
+'Access specification name,default assignment
+	16K; Sequential Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	16384,100,100,0,0,1,0,0
+'Access specification name,default assignment
+	16K; Sequential Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	16384,100,0,0,0,1,0,0
+'Access specification name,default assignment
+	16K; Random Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	16384,100,100,100,0,1,0,0
+'Access specification name,default assignment
+	16K; Random Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	16384,100,0,100,0,1,0,0
+'Access specification name,default assignment
+	64K; Sequential Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	65536,100,100,0,0,1,0,0
+'Access specification name,default assignment
+	64K; Sequential Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	65536,100,0,0,0,1,0,0
+'Access specification name,default assignment
+	64K; Random Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	65536,100,100,100,0,1,0,0
+'Access specification name,default assignment
+	64K; Random Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	65536,100,0,100,0,1,0,0
+'Access specification name,default assignment
+	256K; Sequential Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	262144,100,100,0,0,1,0,0
+'Access specification name,default assignment
+	All in one,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	512,5,100,0,0,1,0,0
+	512,5,75,0,0,1,0,0
+	512,5,50,0,0,1,0,0
+	512,5,25,0,0,1,0,0
+	512,5,0,0,0,1,0,0
+	4096,5,100,0,0,1,0,0
+	4096,5,75,0,0,1,0,0
+	4096,5,50,0,0,1,0,0
+	4096,5,25,0,0,1,0,0
+	4096,5,0,0,0,1,0,0
+	16384,5,100,0,0,1,0,0
+	16384,5,75,0,0,1,0,0
+	16384,5,50,0,0,1,0,0
+	16384,5,25,0,0,1,0,0
+	16384,5,0,0,0,1,0,0
+	32768,5,100,0,0,1,0,0
+	32768,5,75,0,0,1,0,0
+	32768,5,50,0,0,1,0,0
+	32768,5,25,0,0,1,0,0
+	32768,5,0,0,0,1,0,0
+'Access specification name,default assignment
+	256K; Sequential Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	262144,100,0,0,0,1,0,0
+'Access specification name,default assignment
+	256K; Random Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	262144,100,100,100,0,1,0,0
+'Access specification name,default assignment
+	256K; Random Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	262144,100,0,100,0,1,0,0
+'Access specification name,default assignment
+	512K; Sequential Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	524288,100,100,0,0,1,0,0
+'Access specification name,default assignment
+	512K; Sequential Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	524288,100,0,0,0,1,0,0
+'Access specification name,default assignment
+	512K; Random Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	524288,100,100,100,0,1,0,0
+'Access specification name,default assignment
+	512K; Random Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	524288,100,0,100,0,1,0,0
+'Access specification name,default assignment
+	1024K; Sequential Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	1048576,100,100,0,0,1,0,0
+'Access specification name,default assignment
+	1024K; Sequential Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	1048576,100,0,0,0,1,0,0
+'Access specification name,default assignment
+	1024K; Random Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	1048576,100,100,100,0,1,0,0
+'Access specification name,default assignment
+	1024K; Random Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	1048576,100,0,100,0,1,0,0
+'Access specification name,default assignment
+	2048K; Sequential Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	2097152,100,100,0,0,1,0,0
+'Access specification name,default assignment
+	2048K; Sequential Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	2097152,100,0,0,0,1,0,0
+'Access specification name,default assignment
+	2048K; Random Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	2097152,100,100,100,0,1,0,0
+'Access specification name,default assignment
+	2048K; Random Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	2097152,100,0,100,0,1,0,0
+'Access specification name,default assignment
+	1K; Sequential Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	1024,100,100,0,0,1,0,0
+'Access specification name,default assignment
+	1K; Sequential Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	1024,100,0,0,0,1,0,0
+'Access specification name,default assignment
+	1K; Random Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	1024,100,100,100,0,1,0,0
+'Access specification name,default assignment
+	1K; Random Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	1024,100,0,100,0,1,0,0
+'Access specification name,default assignment
+	4096K; Sequential Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	4194304,100,100,0,0,1,0,0
+'Access specification name,default assignment
+	4096K; Sequential Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	4194304,100,0,0,0,1,0,0
+'Access specification name,default assignment
+	4096K; Random Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	4194304,100,100,100,0,1,0,0
+'Access specification name,default assignment
+	4096K; Random Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	4194304,100,0,100,0,1,0,0
+'Access specification name,default assignment
+	8192K; Sequential Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	8388608,100,100,0,0,1,0,0
+'Access specification name,default assignment
+	8192K; Sequential Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	8388608,100,0,0,0,1,0,0
+'Access specification name,default assignment
+	8192K; Random Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	8388608,100,100,100,0,1,0,0
+'Access specification name,default assignment
+	8192K; Random Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	8388608,100,0,100,0,1,0,0
+'Access specification name,default assignment
+	16384K; Sequential Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	16777216,100,100,0,0,1,0,0
+'Access specification name,default assignment
+	16384K; Sequential Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	16777216,100,0,0,0,1,0,0
+'Access specification name,default assignment
+	16384K; Random Read,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	16777216,100,100,100,0,1,0,0
+'Access specification name,default assignment
+	16384K; Random Write,NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	16777216,100,0,100,0,1,0,0
+'Access specification name,default assignment
+	64K; Sequential Read (SM2683ENBB),NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	65536,100,100,0,0,1,0,0
+'Access specification name,default assignment
+	64K; Sequential Write (SM2683ENBB),NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	65536,100,0,0,0,1,0,0
+'Access specification name,default assignment
+	4K; Random Read (SM2683ENBB),NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	4096,100,100,100,0,1,0,0
+'Access specification name,default assignment
+	4K; Random Write (SM2683ENBB),NONE
+'size,% of size,% reads,% random,delay,burst,align,reply
+	4096,100,0,100,0,1,0,0
+'END access specifications
+'MANAGER LIST ==================================================================
+'Manager ID, manager name
+	1,PCName
+'Manager network address
+	IPaddress
+'Worker
+	Worker 1
+'Worker type
+	DISK
+'Default target settings for worker
+'Number of outstanding IOs,test connection rate,transactions per connection
+	1,DISABLED,1
+'Disk maximum size,starting sector
+	2097152,0
+'End default target settings for worker
+'Assigned access specs
+	64K; Sequential Write
+	64K; Sequential Read
+	4K; Random Write
+	4K; Random Read
+	64K; Sequential Write
+	64K; Sequential Read
+	4K; Random Write
+	4K; Random Read
+	64K; Sequential Write
+	64K; Sequential Read
+	4K; Random Write
+	4K; Random Read
+'End assigned access specs
+'Target assignments
+'Target
+	J:IOMETER
+'Target type
+	DISK
+'End target
+'End target assignments
+'End worker
+'End manager
+'END manager list
+Version 2006.07.27 
