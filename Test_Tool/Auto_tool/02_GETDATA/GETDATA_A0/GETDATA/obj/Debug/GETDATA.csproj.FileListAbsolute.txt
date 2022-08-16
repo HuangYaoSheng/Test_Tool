@@ -1,0 +1,11 @@
+C:\Users\ys.huang\source\repos\GETDATA\GETDATA\bin\Debug\GETDATA.exe.config
+C:\Users\ys.huang\source\repos\GETDATA\GETDATA\bin\Debug\GETDATA.exe
+C:\Users\ys.huang\source\repos\GETDATA\GETDATA\bin\Debug\GETDATA.pdb
+C:\Users\ys.huang\source\repos\GETDATA\GETDATA\obj\Debug\GETDATA.csproj.AssemblyReference.cache
+C:\Users\ys.huang\source\repos\GETDATA\GETDATA\obj\Debug\GETDATA.csproj.SuggestedBindingRedirects.cache
+C:\Users\ys.huang\source\repos\GETDATA\GETDATA\obj\Debug\GETDATA.Properties.Resources.resources
+C:\Users\ys.huang\source\repos\GETDATA\GETDATA\obj\Debug\GETDATA.csproj.GenerateResource.cache
+C:\Users\ys.huang\source\repos\GETDATA\GETDATA\obj\Debug\GETDATA.csproj.CoreCompileInputs.cache
+C:\Users\ys.huang\source\repos\GETDATA\GETDATA\obj\Debug\GETDATA.exe
+C:\Users\ys.huang\source\repos\GETDATA\GETDATA\obj\Debug\GETDATA.pdb
+C:\Users\ys.huang\source\repos\GETDATA\GETDATA\obj\Debug\GETDATA.GETDATA.resources
