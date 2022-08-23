@@ -1,0 +1,3 @@
+GETDATA version : releasenote
+A0 First release
+A1 Add Get HW_Ver/FW_Ver/SPI_Flash function
