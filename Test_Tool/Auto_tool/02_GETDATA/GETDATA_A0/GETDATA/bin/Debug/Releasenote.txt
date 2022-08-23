@@ -1,0 +1,2 @@
+GETDATA version : releasenote
+A0 First release
