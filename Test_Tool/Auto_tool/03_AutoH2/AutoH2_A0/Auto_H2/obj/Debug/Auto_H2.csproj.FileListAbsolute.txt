@@ -1,0 +1,97 @@
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\bin\Debug\Auto_H2.exe.config
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\bin\Debug\Auto_H2.exe.manifest
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\bin\Debug\Auto_H2.exe
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\bin\Debug\Auto_H2.pdb
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\bin\Debug\AutoItX3.dll
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\obj\Debug\Auto_H2.csproj.AssemblyReference.cache
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\obj\Debug\Auto_H2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\obj\Debug\Auto_H2.csproj.ResolveComReference.cache
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\obj\Debug\Auto_H2.Auto_H2.resources
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\obj\Debug\Auto_H2.Properties.Resources.resources
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\obj\Debug\Auto_H2.csproj.GenerateResource.cache
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\obj\Debug\Auto_H2.csproj.CoreCompileInputs.cache
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\obj\Debug\Auto_H2.exe.manifest
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\obj\Debug\Auto_H2.exe
+C:\Users\ys.huang\source\repos\Auto_H2\Auto_H2\obj\Debug\Auto_H2.pdb
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\obj\Debug\Auto_H2.csproj.AssemblyReference.cache
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\obj\Debug\Auto_H2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\obj\Debug\Auto_H2.csproj.ResolveComReference.cache
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\obj\Debug\Auto_H2.Properties.Resources.resources
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\obj\Debug\Auto_H2.csproj.GenerateResource.cache
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\obj\Debug\Auto_H2.csproj.CoreCompileInputs.cache
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\obj\Debug\Auto_H2.exe
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\obj\Debug\Auto_H2.pdb
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\Auto_H2.exe.config
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\Auto_H2.exe.manifest
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\Auto_H2.exe
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\Auto_H2.pdb
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\AutoItX3.dll
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\obj\Debug\Auto_H2.exe.manifest
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\Castle.Core.dll
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\Interop.UIAutomationClient.dll
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\TestStack.White.dll
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\UIAutomationClient.FluentExtensions.dll
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\Castle.Core.xml
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\TestStack.White.pdb
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\TestStack.White.xml
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\obj\Debug\Auto_H2.csproj.CopyComplete
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\AutoItX3_x64.dll
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\ys.huang\source\repos\Auto_H2 - 複製\Auto_H2\obj\Debug\Auto_H2.Auto_H2.resources
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\AutoItX3.dll
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\AutoItX3_x64.dll
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\Auto_H2.exe.config
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\Auto_H2.exe.manifest
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\Auto_H2.exe
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\Auto_H2.pdb
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\Castle.Core.dll
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\Interop.UIAutomationClient.dll
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\TestStack.White.dll
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\UIAutomationClient.FluentExtensions.dll
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\Castle.Core.xml
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\TestStack.White.pdb
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\bin\Debug\TestStack.White.xml
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\obj\Debug\Auto_H2.csproj.AssemblyReference.cache
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\obj\Debug\Auto_H2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\obj\Debug\Auto_H2.csproj.ResolveComReference.cache
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\obj\Debug\Auto_H2.Auto_H2.resources
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\obj\Debug\Auto_H2.Properties.Resources.resources
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\obj\Debug\Auto_H2.csproj.GenerateResource.cache
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\obj\Debug\Auto_H2.csproj.CoreCompileInputs.cache
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\obj\Debug\Auto_H2.exe.manifest
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\obj\Debug\Auto_H2.csproj.CopyComplete
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\obj\Debug\Auto_H2.exe
+C:\Users\ys.huang\source\repos\AutoH2_V1.0\Auto_H2\obj\Debug\Auto_H2.pdb
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\AutoItX3.dll
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\AutoItX3_x64.dll
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\Castle.Core.dll
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\Interop.UIAutomationClient.dll
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\TestStack.White.dll
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\UIAutomationClient.FluentExtensions.dll
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\Castle.Core.xml
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\TestStack.White.pdb
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\TestStack.White.xml
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\obj\Debug\Auto_H2.csproj.AssemblyReference.cache
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\obj\Debug\Auto_H2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\obj\Debug\Auto_H2.csproj.ResolveComReference.cache
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\obj\Debug\Auto_H2.csproj.GenerateResource.cache
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\obj\Debug\Auto_H2.csproj.CoreCompileInputs.cache
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\obj\Debug\Auto_H2.csproj.CopyComplete
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\AutoH2.exe.config
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\AutoH2.exe.manifest
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\AutoH2.exe
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\bin\Debug\AutoH2.pdb
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\obj\Debug\AutoH2.Properties.Resources.resources
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\obj\Debug\AutoH2.exe.manifest
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\obj\Debug\AutoH2.exe
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\obj\Debug\AutoH2.pdb
+C:\Users\ys.huang\source\repos\AutoH2_A0\Auto_H2\obj\Debug\AutoH2.AutoH2.resources
